@@ -9,7 +9,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin: 32px 0 16px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -47,7 +47,7 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  width:960px;
   margin:0 auto;
 }
 
@@ -80,7 +80,6 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
 }
 
 dt {
@@ -144,6 +143,11 @@ strong {
   font-weight:700;
 }
 
+small {
+  color:#333;
+  font-size: smaller;
+}
+
 header ul li + li {
   width:88px;
   border-left:1px solid #fff;
@@ -161,13 +165,9 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:620px;
   float:right;
   padding-bottom:50px;
-}
-
-small {
-  font-size:11px;
 }
 
 hr {
