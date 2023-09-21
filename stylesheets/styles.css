@@ -114,6 +114,14 @@ small {
   font-size: smaller;
 }
 
+div.title {
+  margin-top: 0.1em;
+}
+
+div.subtitle {
+  margin-top: 0.5em;
+}
+
 section {
   width:620px;
   float:left;
