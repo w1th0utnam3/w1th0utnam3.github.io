@@ -39,6 +39,10 @@ a {
   text-decoration:none;
 }
 
+a:hover {
+  text-decoration:underline;
+}
+
 a small {
   font-size:11px;
   color:#777;
